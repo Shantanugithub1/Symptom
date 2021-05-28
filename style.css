@@ -13,7 +13,7 @@ body{
     background-size: over;
 }
 img{
-    margin-left: 200px;
+    margin-left: 50px;
 }
 .symptoms{
     display: flex;
@@ -59,4 +59,13 @@ h3{
 }
 #para{
     text-align: center;
+    color: white;
+}
+p{
+    color: white;
+}
+#paras{
+    color: white;
+    text-align: left;
+    font-size: large;
 }
